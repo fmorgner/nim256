@@ -1,0 +1,6 @@
+# nim compiler cache
+.cache
+
+# executables
+nim256
+tester
